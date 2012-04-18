@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4022
+
+https://github.com/gagoar/SpaceBetween
+Space Between
+This plugin fix spaces between = [ ]{ } in your *.rb file before save it automatically
+
+
+
+if you need call this function before save, you can call it manually doing:
+
+:SpaceBetween
